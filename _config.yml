@@ -1,0 +1,10 @@
+title: "Timm’s School Notes"
+description: "Bilingual notes in German 🇩🇪 and English 🇬🇧"
+theme: minima
+lang: en
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-polyglot
+  - jekyll-remote-theme
+remote_theme: sighingnow/jekyll-gitbook
