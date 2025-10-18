@@ -8,3 +8,8 @@ plugins:
   - jekyll-polyglot
   - jekyll-remote-theme
 remote_theme: sighingnow/jekyll-gitbook
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
+syntax_highlighter_style: colorful
